@@ -62,14 +62,6 @@ When stress levels exceed a predefined threshold, the system **automatically sen
    ```bash
    npm run dev
    ```
-
----
-## **Challenges Faced**
-- **ESP32 Incompatibility**: AI model could not be directly deployed due to memory constraints.
-- **MAX30102 Sensor Issues**: Sensor failed multiple times due to incorrect wiring and voltage mismatch.
-- **Data Transmission Errors**: The HTTP server initially failed to receive data reliably from ESP32.
-- **Model Optimization**: Required heavy tuning to achieve high accuracy with limited dataset.
-
 ---
 ## **Future Improvements**
 - **Integration with Smartwatches & Wearables**
