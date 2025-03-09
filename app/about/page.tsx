@@ -90,7 +90,7 @@ export default function AboutPage() {
         <div className="mt-24 rounded-2xl bg-primary/5 px-8 py-12">
           <div className="mx-auto max-w-2xl text-center">
             <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">
-              97.8% Accurate ML Model
+              97.6% Accurate ML Model
             </h2>
             <p className="mt-4 text-lg text-muted-foreground">
               Our custom-built machine learning model is trained on a dataset of over 5,000 samples, providing industry-leading accuracy in stress detection and mental health monitoring.

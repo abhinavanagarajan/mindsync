@@ -320,13 +320,13 @@ export default function DataPage() {
       pdf.text('• Implement relaxation protocols', 30, 120)
     }
 
-    // Add footer
-    const pageCount = pdf.internal.getNumberOfPages()
-    for (let i = 1; i <= pageCount; i++) {
+    // Add footer to all pages
+    const totalPages = pdf.internal.pages.length - 1
+    for (let i = 1; i <= totalPages; i++) {
       pdf.setPage(i)
       pdf.setFontSize(10)
       pdf.setTextColor(128, 128, 128)
-      pdf.text(`Page ${i} of ${pageCount}`, pdf.internal.pageSize.width / 2, pdf.internal.pageSize.height - 10, { align: 'center' })
+      pdf.text(`Page ${i} of ${totalPages}`, pdf.internal.pageSize.width / 2, pdf.internal.pageSize.height - 10, { align: 'center' })
     }
 
     // Force download in browser
