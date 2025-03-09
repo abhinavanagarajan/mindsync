@@ -80,7 +80,7 @@ When stress levels exceed a predefined threshold, the system **automatically sen
 ---
 ## **Contributors**
 - **Vishnu Swaroop G.** – Project Lead & AI Developer
-- **[Team Members]** – Hardware, Software, and Web Development
+- **Abhinavanagarajan A** – Hardware, Software, and Web Development
 
 ---
 ## **License**
