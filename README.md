@@ -1,4 +1,6 @@
-# **AI-Powered Real-Time Stress Detection & Emergency Response System**
+#MindSync
+
+## **AI-Powered Real-Time Stress Detection & Emergency Response System**
 
 ## **Overview**
 This project is a **low-cost, AI-driven wearable system** designed to detect stress levels in real time using **Galvanic Skin Response (GSR) and Heart Rate (MAX30102) sensors**. Unlike existing smartwatches that rely solely on heart rate variability, our device uses a **multi-sensor approach** to achieve **97.7% accuracy** in detecting stress. 
