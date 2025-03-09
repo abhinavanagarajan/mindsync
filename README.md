@@ -1,4 +1,4 @@
-#MindSync
+# **MindSync**
 
 ## **AI-Powered Real-Time Stress Detection & Emergency Response System**
 
