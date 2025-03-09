@@ -1,1 +1,1 @@
-# mindsync
+# MindSync
