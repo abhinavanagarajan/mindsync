@@ -52,22 +52,15 @@ When stress levels exceed a predefined threshold, the system **automatically sen
 ### **Software Setup**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/stress-detection.git
-   cd stress-detection
+   git clone https://github.com/abhinavanagarajan/mindsync.git
    ```
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the Flask server:
+3. Run:
    ```bash
-   python server.py
-   ```
-4. Deploy the web dashboard:
-   ```bash
-   cd frontend
-   npm install
-   npm start
+   npm run dev
    ```
 
 ---
