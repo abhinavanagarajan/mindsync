@@ -2,10 +2,10 @@
 
 import { useState } from 'react'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import MusicPlayer from './components/MusicPlayer.tsx'
-import EbookReader from './components/EbookReader.tsx'
-import PianoGame from './components/PianoGame.tsx'
-import JigsawPuzzle from './components/JigsawPuzzle.tsx'
+import MusicPlayer from './components/MusicPlayer'
+import EbookReader from './components/EbookReader'
+import PianoGame from './components/PianoGame'
+import JigsawPuzzle from './components/JigsawPuzzle'
 
 export default function RelaxPage() {
   return (
